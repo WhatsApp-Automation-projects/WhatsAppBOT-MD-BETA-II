@@ -22,6 +22,11 @@
     "required": true,
     "value": "Heroku"
   }, 
+   "LANGUAGE": {
+    "description": "Language pack for the bot",
+    "required": true,
+    "value": "en"
+  }, 
   "STICKER_PACK": {
     "description": "Sticker pack & author name. (leave it if you Wish to use the default)",
     "required": false,
@@ -60,6 +65,11 @@
     "description": "Auto Read Messages (In PM chat)",
     "required": false,
     "value": "false"
+  },
+  "ACCESS_API_ALFA": {
+    "description": "Dont Change Or Delete This Key",
+    "required": true,
+    "value": "Alien-Alfa-Admin-Auth"
   },
   "AUTO_READ_GROUP": {
     "description": "Auto Read Messages (In group chat)",
